@@ -40,7 +40,7 @@ A professional resume for
 
 ## Preview
 
-x
+![image](https://user-images.githubusercontent.com/114375310/228570642-0a913adf-f9bf-4655-bfc9-291ffa0507ed.png)
 
 ## Deployed Link
 
