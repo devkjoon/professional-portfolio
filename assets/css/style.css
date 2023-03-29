@@ -1,0 +1,12 @@
+:root {
+    --primary: #233d8c;
+    --secondary: #81848f;
+    --pop: #873636; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
