@@ -181,6 +181,10 @@ header nav ul li:hover {
     background-image: url('../images/krn.png');
 }
 
+.horiseon {
+    background-image: url('../images/horiseon.png');
+}
+
 .project-label {
     background-color: lightgray;
     color: var(--primary);
