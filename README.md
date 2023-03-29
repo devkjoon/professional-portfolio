@@ -3,7 +3,7 @@
 
 ## Description
 
-A professional resume for 
+A professional resume dedicated to displaying my progress such as my projects and a brief introduction about myself
 
 ## Table of Contents
 
