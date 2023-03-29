@@ -44,7 +44,7 @@ A professional resume dedicated to displaying my progress such as my projects an
 
 ## Deployed Link
 
-x
+https://devkjoon.github.io/professional-portfolio/
 
 ## License
 
